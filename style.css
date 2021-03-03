@@ -5,7 +5,7 @@
 }
 
 #caixa:hover {
-  width: 400px;
+  width: 800px;
   background: yellow;
-  transition: 4s;
+  transition: all 4s;
 }
